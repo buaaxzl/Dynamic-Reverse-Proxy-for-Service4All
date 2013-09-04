@@ -1,0 +1,26 @@
+#result
+  {
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  width:50%;
+  border-collapse:collapse;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  }
+
+#result td, #result th 
+  {
+  font-size:1em;
+  text-align:center;
+  border:1px solid #98bf21;
+  padding:10px 10px 5px 7px;
+  }
+
+#result th 
+  {
+  font-size:1.1em;  
+  background-color:#A7C942;
+  color:#ffffff;
+  }
+
+

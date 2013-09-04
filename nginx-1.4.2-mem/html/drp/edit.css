@@ -1,0 +1,91 @@
+#options
+{
+	margin-left:25%;
+}
+#bar
+{
+	font-size:1.7em;
+	margin-bottom:30px;
+	margin-top: 0;
+	padding-top: 0;
+	text-align:center;
+	color: #98bf21;
+}
+#events
+{
+	margin-right: 20%;
+	margin-left: 20%;
+}
+#http
+{
+	margin-top: 10px;
+	margin-right: 20%;
+	margin-left: 20%;
+	border-color:#98bf21;
+	
+}
+#service4all
+{
+	text-align: center;
+}
+body
+{
+	margin:0;
+	padding:0;
+	font-family:Arial,"Times New Roman",Verdana,Sans-serif,Georgia,Serif;
+}
+#commit
+{
+	padding: 6px 15px 6px 15px;
+}
+#event_field
+{
+	border-color: #FFDEAD;
+}
+#http_field
+{
+	border-color: #FFDEAD;
+}
+#upstream_field
+{
+	text-align: center;
+	margin:5px 5px 5px 5px;
+	border-color: #FFDEAD;
+}
+#server_field
+{
+	text-align: center;
+	margin: 5px 5px 5px 5px;
+	border-color: #FFDEAD;
+}
+#b_upstream
+{
+	text-align: center;
+}
+#event_in
+{
+	padding-left:7%;
+}
+legend
+{
+	color:rgb(61,145,64);
+	font-weight: 700;
+	text-align: left;
+}
+#server_fir
+{
+	text-align: left;
+	margin-left: 8%;
+}
+#info
+{
+	color:#8B8989;
+}
+
+textarea
+{
+	
+	font-family:"Times New Roman",arial,sans-serif;
+	font-size:1.1em;
+}
+}
